@@ -1,4 +1,4 @@
-import {IRenderContentCapable} from "../../../lib/Auction/Render";
+import {IRenderContentCapable} from "../../../lib/Render";
 import {closestSafe, queryAttributeSafe, querySelectorSafe} from "../../../lib/Illuminate";
 
 
